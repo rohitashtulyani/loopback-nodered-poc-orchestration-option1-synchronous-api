@@ -1,0 +1,14 @@
+{
+  "name": "Account",
+  "properties": {
+    "accountHolderName": {
+      "type": "string"
+    },
+    "accountType": {
+      "type": "string"
+    },
+    "accountNumber": {
+      "type": "string"
+    }
+  }
+}

@@ -15,5 +15,14 @@
   },
   "Note": {
     "dataSource": "db"
+  },
+  "Customer": {
+    "dataSource": "db"
+  },
+   "Account": {
+    "dataSource": "db"
+  },
+   "Iam": {
+    "dataSource": "db"
   }
 }

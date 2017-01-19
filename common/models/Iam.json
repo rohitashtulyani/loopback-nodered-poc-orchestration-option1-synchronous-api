@@ -1,0 +1,14 @@
+{
+  "name": "Iam",
+  "properties": {
+    "iamHolderName": {
+      "type": "string"
+    },
+    "iamType": {
+      "type": "string"
+    },
+    "iamNumber": {
+      "type": "string"
+    }
+  }
+}
